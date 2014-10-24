@@ -8,8 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewController : UIViewController <UITextFieldDelegate>
+@property (strong, nonatomic) NSMutableArray *timeArray;
+@property (strong, nonatomic) NSMutableArray *wordArray;
+@property (nonatomic) NSTimeInterval startTime;
+@property (strong, nonatomic) IBOutlet UILabel *wordMapLabel;
 
 @end
 
