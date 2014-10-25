@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B6F05C9-3C13-4EF6-919F-F3FDF6B3AF96</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TextFieldApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9EBCB739DDF2DD94BD1124E14A6F6DD800A07F57</key>
+		<string>https://github.com/ziyadparekh/DynamicTextFields.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TextFieldApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9EBCB739DDF2DD94BD1124E14A6F6DD800A07F57</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ziyadparekh/DynamicTextFields.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9EBCB739DDF2DD94BD1124E14A6F6DD800A07F57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EBCB739DDF2DD94BD1124E14A6F6DD800A07F57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DynamicTextFields</string>
+		</dict>
+	</array>
+</dict>
+</plist>
